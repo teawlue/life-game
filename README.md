@@ -1,4 +1,3 @@
-cat <<EOF >README.md
 # Game of Life
 
 ## Описание проекта
@@ -37,7 +36,3 @@ cat <<EOF >README.md
 
 ## Лицензия
 Данный проект распространяется под лицензией MIT. Подробнее смотрите в файле LICENSE.
-
-EOF
-
-echo "README.md has been created or updated successfully."
